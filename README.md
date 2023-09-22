@@ -1,3 +1,1 @@
-# CSci150
-
-Hello
+# CSci150   
